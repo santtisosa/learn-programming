@@ -1,6 +1,6 @@
 export const SITE_NAME = "LearnProgramming";
 export const SITE_DESCRIPTION = "Aprende los fundamentos de la programación con ejemplos interactivos en Python, JavaScript, Java y C++";
-export const BASE_PATH = "/learn-programming";
+export const BASE_PATH = "";
 
 export const NAVIGATION_LINKS = [
   { href: "/", label: "Inicio" },
